@@ -5,3 +5,5 @@ back to your chrome browser and right click on the box that you want to try the 
 right click on the blue area then choose copy the xpath then past it in the script
 input how many digits you want to guess the password on
 
+
+note : this script is for learning purpuse only and i am not responsible for any illeagal usage
