@@ -1,4 +1,4 @@
-this is a simple script to test microteck networks (open networks that requires a user name and a password to log in after connecting)
+this is a simple script to test mikrotik networks (open networks that requires a user name and a password to log in after connecting)
 to use it connect to the network then wait until the log in page opens
 copy the link of the page and past it to the script
 back to your chrome browser and right click on the box that you want to try the code on select inspect
